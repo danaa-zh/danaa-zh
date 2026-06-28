@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dana 👋
+# Hi, I'm Dana 
 
 ### Building AI-driven products that solve real human problems
 
@@ -37,7 +37,6 @@ Co-founder of **EcoScan**, a green-tech startup using AI to automatically detect
 
 <div align="center">
 
-![Dana's GitHub stats](https://github-readme-stats.vercel.app/api?username=danaa-zh&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danaa-zh&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -46,7 +45,6 @@ Co-founder of **EcoScan**, a green-tech startup using AI to automatically detect
 
 ### 📌 Featured repositories
 
-- [`ecoscan_app`](https://github.com/danaa-zh/ecoscan_app) — EcoScan mobile app
 - Contributor: [`hygge_app`](https://github.com/mariurmm/hygge_app) — Fitness studio app (Kumbel LAB)
 - Contributor: [`eco_scan_web2`](https://github.com/veatube74-stack/eco_scan_web2) — EcoScan web platform
 
